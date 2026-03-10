@@ -1,0 +1,7 @@
+{
+  "name": "AniX",
+  "description": "A social media platform for anime and manga fans, inspired by X, featuring real-time discussions, anime-specific pages, and intelligent translation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
